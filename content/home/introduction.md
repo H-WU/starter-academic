@@ -6,6 +6,10 @@ active: true
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+ image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
 ---
 # Introduction
 We collect driver behavior data on four different types of buses. We have 55 participants, including 15 female drivers and 40 male drivers. 
