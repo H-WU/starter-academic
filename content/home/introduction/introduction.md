@@ -12,7 +12,7 @@ image:
   placement: 1
 ---
 # Introduction
-{{< figure src="11class.png">}}
+{{< figure src="11class.png" align=center>}}
 We collect driver behavior data on four different types of buses. We have 55 participants, including 15 female drivers and 40 male drivers. 
 To ensure the diversity of our dataset, we select the participants with different body heights, weights and different driving styles, wearing different uniforms, 
 masks or sunglasses. Each driver is instructed to perform 10 abnormal and 1 normal driver behaviors,
