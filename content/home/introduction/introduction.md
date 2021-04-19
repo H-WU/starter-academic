@@ -10,10 +10,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   placement: 1
-<<<<<<< HEAD
-=======
-  preview_only: false
->>>>>>> 224abfca547e4e024a4634d4240edc1a02e09e28
 ---
 # Introduction
 We collect driver behavior data on four different types of buses. We have 55 participants, including 15 female drivers and 40 male drivers. 
