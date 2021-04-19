@@ -6,7 +6,7 @@ active: true
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
- image:
+image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
