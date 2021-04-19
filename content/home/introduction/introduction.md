@@ -9,6 +9,7 @@ design:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
+  placement: 1
   preview_only: false
 ---
 # Introduction
