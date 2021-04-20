@@ -8,8 +8,8 @@ main:
     url: '#introduction'
     weight: 10
   - name: Download
-    url: '#projects'
-    weight: 30
+    url: '#download'
+    weight: 20
   - name: Publications
     url: '#featured'
     weight: 50
