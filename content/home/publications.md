@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publication
 subtitle: ''
 
 content:
@@ -37,3 +37,5 @@ design:
   view: 4
 ---
 Please cite the paper in your publications if PCL-BDB dataset helps your research.
+
+World Health Organization. Global status report on road safety 2018: Summary[R]. World Health Organization, 2018.
