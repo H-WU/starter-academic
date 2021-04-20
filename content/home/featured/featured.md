@@ -34,8 +34,3 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-
-| modality           | URL                    |
-| ------------------| ------------------------------ |
-| RGB            | [Download](https://www.google.com)            |
-| Infrared   | [Download](https://www.google.com)            |

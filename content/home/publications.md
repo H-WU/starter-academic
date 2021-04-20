@@ -11,7 +11,7 @@ weight: 90
 
 title: Recent Publications
 subtitle: ''
-active: false
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
@@ -36,7 +36,4 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+Please cite the paper in your publications if PCL-BDB dataset helps your research.
