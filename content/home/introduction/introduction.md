@@ -14,11 +14,11 @@ image:
 
 # Introduction
 {{< figure src="11class.png">}} 
-The PCL-BDB dataset is collected on four different types of buses. It offers following key features:
+The PCL-BDB dataset is collected on four different types of buses. It offers the following key features:
 - 268 videos with 9622 bus behavior instances 
 - 55 participants, including 15 female and 40 male
 - 10 abnormal and 1 normal driver behaviors
-- Different lighting conditions to simulate the real-world dirving environment
+- Different lighting conditions to simulate the real-world driving environment
 - Fine-grained annotation:
-  - left and right hand
+  - left hand and right hand
   - three behavior stages (starting, middle, ending)

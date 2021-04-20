@@ -36,6 +36,6 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-Please cite the paper in your publications if PCL-BDB dataset helps your research.
+Please cite the paper in your publications if the PCL-BDB dataset helps your research.
 
 > World Health Organization. Global status report on road safety 2018: Summary[R]. World Health Organization, 2018.
