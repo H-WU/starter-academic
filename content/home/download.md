@@ -3,13 +3,13 @@ widget: blank
 headless: true
 weight: 20
 active: true
+title:Download
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 ---
 
-# Download
-| modality           | URL                    |
+| Modality           | URL                    |
 | ------------------| ------------------------------ |
 | RGB            | [Download](https://www.google.com)            |
 | Infrared   | [Download](https://www.google.com)            |
