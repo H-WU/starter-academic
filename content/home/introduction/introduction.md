@@ -3,16 +3,12 @@ widget: blank
 headless: true
 weight: 10
 active: true
+title: Introduction
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  placement: 1
+  columns: '2'
 ---
 
-# Introduction
 {{< figure src="11class.png">}} 
 The PCL-BDB dataset is collected on four different types of buses. It offers the following key features:
 - 268 videos with 9622 bus behavior instances 
