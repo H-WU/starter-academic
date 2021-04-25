@@ -13,4 +13,4 @@ design:
 | ------------------------| ----------------------------------- |
 | RGB            | [Download](https://www.google.com)            |
 | Infrared   | [Download](https://www.google.com)            |
-| Anonation |  [Download](https://www.google.com)|
+| Annotation |  [Download](https://www.google.com)|
